@@ -1,12 +1,36 @@
-# React + Vite
+# Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 **Live Demo:** [Landing Page](https://landingpagecom.netlify.app/)
 
-Currently, two official plugins are available:
+## 📌 Project Overview
+This is a modern and responsive **Landing Page**, designed to be visually appealing and user-friendly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+- **Tailwind CSS** 
+- **React.js** 
 
-## Expanding the ESLint configuration
+## 🎨 Features
+- Fully responsive design 📱💻
+- Clean and modern UI
+- Smooth scrolling animations ✨
+- Fast loading ⚡
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Prince-2028/LandingScreen.git
+
+   npm install 
+   
+   npm run dev
+   ```
+
+## 📜 License
+This project is open-source. Feel free to modify and use it!
+
+---
+🔥 **Developed by Prince Kumar**
